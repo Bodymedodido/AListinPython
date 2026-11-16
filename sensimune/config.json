@@ -1,0 +1,10 @@
+{
+  "days": ["Mon", "Wed", "Fri"],
+  "slots": [
+    {"time": "07:40", "message": "Time for your Sensimune tablet - take it now, then wait 15 min before breakfast."},
+    {"time": "07:50", "message": "Reminder: Sensimune tablet not marked as taken yet. Breakfast is 15 min after."},
+    {"time": "08:00", "message": "LAST CALL: take Sensimune now (latest allowed time), then breakfast in 15 min."}
+  ],
+  "ntfy_topic": "",
+  "ntfy_server": "https://ntfy.sh"
+}
